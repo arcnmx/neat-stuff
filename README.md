@@ -142,7 +142,7 @@ Why can't rustc just catch all the bugs for me?
 - [rayon](https://github.com/rayon-rs/rayon) — parallel data processing
 - [crossbeam](https://github.com/crossbeam-rs/crossbeam) — parallel data structures and primitives
   - a good alternative to `std::sync` and other primitives?
-- [threadbound](https://github.com/dtolnay/threadbound) — runtime Send/Sync checking
+- [threadbound](https://github.com/dtolnay/threadbound) — runtime `Send`/`Sync` checking
   - wrapper that ensures contents can only be accessed on origin thread
 - [downcast](https://github.com/marcianx/downcast-rs) — recover concrete type from a trait object
 - [objekt](https://github.com/dtolnay/objekt) — object-safe clone for trait objects
@@ -177,7 +177,7 @@ Nightly rust has lots of goodies that aren't quite ready for stable use yet:
 
 - [async/await](https://github.com/rust-lang/rust/issues/50547) — whee futures
 - [generic associated types](https://github.com/rust-lang/rust/issues/44265) — type constructors and a step toward higher-kinded types
-- [existential types](https://github.com/rust-lang/rust/issues/34511) — improved impl Trait
+- [existential types](https://github.com/rust-lang/rust/issues/34511) — improved `impl Trait`
 - [specialization](https://github.com/rust-lang/rust/issues/31844) — has been in limbo for years so um
 - [const generics](https://github.com/rust-lang/rust/issues/44580) — partial/initial implementation
 
