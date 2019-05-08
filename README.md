@@ -4,6 +4,25 @@ A curated list of tools and libraries that I personally find useful or interesti
 
 This isn't really meant as anything other than a reminder for me to reference occasionally, or when starting new projects, updating older ones, etc.
 
+- [Awesome Stuff](#awesome-stuff)
+  - [Stuff](#stuff)
+- [That's pretty neat](#that-s-pretty-neat)
+  - [Debugging](#debugging)
+  - [Files and Code](#files-and-code)
+  - [Editors](#editors)
+  - [Rust](#rust)
+    - [Build and supporting tools](#build-and-supporting-tools)
+    - [Compile-time or constant guarantees and helpers](#compile-time-or-constant-guarantees-and-helpers)
+    - [Derive macros and type generators](#derive-macros-and-type-generators)
+      - [Serde utilities](#serde-utilities)
+    - [Macro helpers](#macro-helpers)
+    - [Debugging and diagnostics](#debugging-and-diagnostics)
+    - [Miscellaneous](#miscellaneous)
+- [Might be neat?](#might-be-neat)
+  - [Rust](#rust-1)
+    - [Unstable Features](#unstable-features)
+- [Would be neat](#would-be-neat)
+
 
 ## Awesome Stuff
 
