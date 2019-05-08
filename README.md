@@ -170,7 +170,6 @@ future.
   - unfortunately unmaintained, are there any good alternatives?
 - [num_enum](https://github.com/illicitonion/num_enum) — might be a nice enum derive crate?
 - [enumn](https://github.com/dtolnay/enumn) — enum derive from primitive, but why isn't this `TryFrom`?
-- A Rust testing framework might be nice; there [seems to be an aversion](https://github.com/rust-lang/rust/issues/46488#issuecomment-358783310) to expanding the built-in test functionality
 
 #### Unstable Features
 
@@ -192,3 +191,4 @@ A wishlist of ideas that probably aren't close to existing yet, or I haven't loo
   - vim options don't seem that great
   - Properly get used to radare2!
 - Figure out a good notmuch mail CLI client, notmuch-vim is pretty dead
+- A Rust testing framework might be nice; there [seems to be an aversion](https://github.com/rust-lang/rust/issues/46488#issuecomment-358783310) to expanding the built-in test functionality
