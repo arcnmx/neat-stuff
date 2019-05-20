@@ -76,9 +76,10 @@ Why can't rustc just catch all the bugs for me?
   - [oni](https://github.com/onivim/oni2) — pretty GUI backed by neovim
     - unfortunately semi-commercial..?
     - and who needs a GUI anyway
-- vim: needs no introduction?
-  - [vim/lsp](https://github.com/prabirshrestha/vim-lsp) or [vim/LanguageClient](https://github.com/autozimu/LanguageClient-neovim) or [vim/lsc?](https://github.com/natebosch/vim-lsc) for language server code completion
+- [vim](https://www.vim.org/) — needs no introduction?
+  - [vim/lsp](https://github.com/prabirshrestha/vim-lsp) or [vim/LanguageClient](https://github.com/autozimu/LanguageClient-neovim) or [vim/lsc?](https://github.com/natebosch/vim-lsc) or [vim/ALE](https://github.com/w0rp/ale) for language server protocol code completion
     - with [deoplete](https://github.com/Shougo/deoplete.nvim) or [asyncomplete](https://github.com/prabirshrestha/asyncomplete.vim)
+  - [coc](https://github.com/neoclide/coc.nvim) — heaver but combines LSP client, autocompletion, and plugins all in one
 
 ### Rust
 
