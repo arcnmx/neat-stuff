@@ -91,10 +91,14 @@ Why can't rustc just catch all the bugs for me?
 - [cargo-outdated](https://github.com/kbknapp/cargo-outdated) — check for dependency updates
 - [cargo-expand](https://github.com/dtolnay/cargo-expand) — show macro expansions
 - [cargo-llvm-lines](https://github.com/dtolnay/cargo-llvm-lines) — for a rough idea of generic code size overhead
+- [cargo-bloat](https://github.com/RazrFalcon/cargo-bloat) — rough idea of binary size bloat
 - [cargo-deps](https://github.com/m-cat/cargo-deps) — dependency graphs!
+- [cargo-with](https://github.com/cbourjau/cargo-with) — run cargo generated binaries with a debugger
+- [cargo-readme](https://github.com/livioribeiro/cargo-readme) — README generated from crate docs
 - [cargo-release](https://github.com/sunng87/cargo-release) — automated crates.io publishing
   - alternatively [semantic-rs](https://github.com/semantic-rs/semantic-rs) — unmaintained?
 - [cargo-make](https://sagiegurari.github.io/cargo-make/), [cargo-script](https://github.com/DanielKeep/cargo-script), [tinyrick](https://github.com/mcandre/tinyrick), [just](https://github.com/casey/just) — not-makefile build task tools (questionable but)
+  - `.cargo/config` [`[alias]`](https://doc.rust-lang.org/cargo/reference/config.html#configuration-keys) section covers this as well
 - [afl.rs](https://github.com/rust-fuzz/afl.rs), [proptest](https://github.com/altsysrq/proptest), [quickcheck](https://github.com/BurntSushi/quickcheck) — fuzzing and property testing
 
 #### Compile-time or constant guarantees and helpers
