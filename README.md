@@ -29,7 +29,7 @@ This isn't really meant as anything other than a reminder for me to reference oc
 Actual "awesome" lists that are useful to check up on occasionally or for more domain-specific suggestions.
 
 - [awesome-shell](https://github.com/alebcay/awesome-shell)
-  - see also: [awesome-linux/CLI](https://github.com/aleksandar-todorovic/awesome-linux#console-based-applications-and-tools), [Awesome Linux Software](https://github.com/luong-komorebi/Awesome-Linux-Software)
+  - see also: [awesome-zsh](https://github.com/unixorn/awesome-zsh-plugins), [awesome-bash](https://github.com/awesome-lists/awesome-bash), [awesome-fish](https://github.com/jorgebucaran/awesome-fish), [Awesome Linux Software](https://github.com/luong-komorebi/Awesome-Linux-Software)
 - [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
   - [awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust)
 
